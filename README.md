@@ -29,6 +29,7 @@
   - [Deep Dive: Open-Source Tools](#-deep-dive-open-source-tools)
 - [📊 Feature Comparison at a Glance](#-feature-comparison-at-a-glance)
 - [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -212,6 +213,19 @@ Below is a curated selection of self-hosted open-source proposal engines, CPQ to
 ## ⭐ Star History
 
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Sales-Quotation-Proposal-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Sales-Quotation-Proposal-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this curated list! Maintaining and keeping this repository accurate, up-to-date with current pricing, valuations, and new open-source discoveries takes time and passion.
+
+If you found this resource helpful for your team, business, or workflow, please consider supporting the project:
+
+- ⭐ **Star** this repository to help others discover it on GitHub.
+- 🍴 **Fork** and share it with fellow developers, sales engineers, and founders.
+- 📢 **Spread the word** on Twitter/X, LinkedIn, or relevant tech communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing development and maintenance directly, visit my **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**. Every bit of support is deeply appreciated!
 
 ---
 
